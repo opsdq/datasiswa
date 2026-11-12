@@ -1,7 +1,7 @@
 /**
  * Script.js - Full Data Renderer Tanpa Sensor
  */
-const GAS_API_URL = "PASTE_YOUR_GAS_WEB_APP_URL_HERE";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbwCM6CddmnEsMbmQHakp2gp0uhV5N9z3jURGQfE7akws129icG7qBOlf1Ya_eIwQ5mG/exec";
 
 let rawSheetHeaders = [];
 let rawSheetRows = [];
